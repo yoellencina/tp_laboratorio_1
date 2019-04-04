@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554416219 source:c:\users\yoelcito\desktop\tp1 calculadora\funciones.c
+
+1554416219 source:c:\users\yoelcito\desktop\tp1 calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554416219 c:\users\yoelcito\desktop\tp1 calculadora\funciones.h
+
